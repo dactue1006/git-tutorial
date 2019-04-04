@@ -1,1 +1,4 @@
 HI there
+
+build/
+src/
